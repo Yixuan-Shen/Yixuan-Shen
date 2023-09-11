@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to Yixuan's GitHub page
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yixuan-Shen&theme=tokyonight" />
+
+- Current student in PRI from 2021 ~ now
+- Pronouns: he/him
 
 <!--
 **Yixuan-Shen/Yixuan-Shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
