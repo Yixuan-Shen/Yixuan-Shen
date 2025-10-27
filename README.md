@@ -3,7 +3,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yixuan-Shen&theme=tokyonight" />
 
-- Current student in PRI from 2021 ~ now
+- Current student pursuing an M.S. in Computer Science at Drexel University (2025 – present)
+- B.S. in Computer Science from PRI (2021 – 2025)
 - Pronouns: he/him
 
 <!--
